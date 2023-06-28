@@ -17,7 +17,7 @@ Recomendamos abrir este mismo repositorio usando una herramienta de aprovisionam
 Este es el repositorio que necesitas abrir:
 
 ```txt
-https://github.com/4GeeksAcademy/realestate-datacleanup-exercise
+https://github.com/4GeeksAcademy/realestate-review-content
 ```
 
 **👉 Sigue las siguientes instrucciones sobre** [cómo empezar un proyecto nuevo](https://4geeks.com/es/lesson/como-comenzar-un-proyecto-de-codificacion).

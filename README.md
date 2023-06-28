@@ -17,7 +17,7 @@ We recommend opening this very same repository using a provisioning tool like [C
 This is the repository you need to open:
 
 ```txt
-https://github.com/4GeeksAcademy/realestate-datacleanup-exercise
+https://github.com/4GeeksAcademy/realestate-review-content
 ```
 
 **👉 Please follow these steps on** [how to start a project](https://4geeks.com/lesson/how-to-start-a-project).
